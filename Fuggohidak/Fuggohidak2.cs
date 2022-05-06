@@ -53,10 +53,5 @@ namespace Fuggohidak
 		{
 			this.Close();
 		}
-
-		//private void mnuMentes_Click(object sender, EventArgs e)
-		//{
-		//	richTextBox1.SaveFile("hidak.txt", RichTextBoxStreamType.PlainText);
-		//}
 	}
 }
